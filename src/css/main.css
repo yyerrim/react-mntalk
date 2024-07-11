@@ -249,7 +249,8 @@ table td:nth-child(3) {
 
 .bottom_right .btn {
     display: inline-block;
-    background: url(../img/bottomsrc.jpg) no-repeat;
+    /* background: url(../img/bottomsrc.jpg) no-repeat; */
+    background: url(../../public/img/bottomsrc.jpg) no-repeat;
     border: none;
     position: absolute;
     top: 3px;
